@@ -10,7 +10,7 @@ export const Layout: FC<LayoutPropsType> = ({ children }) => {
   return (
     <>
       <Header />
-      <main className="wrapper">{children}</main>
+      <main className="wrapper flex-1">{children}</main>
       <Footer />
     </>
   );
