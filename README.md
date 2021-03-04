@@ -36,6 +36,12 @@ $ npm run build
 $ npm run export
 ```
 
+### View Tailwindcss
+
+```shell script
+$ npm run view:tailwind
+```
+
 ## License
 
 [MIT © hisho](./LICENSE)
