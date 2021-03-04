@@ -8,7 +8,7 @@ type HeaderPropsType = Readonly<{
 export const Header: FC<HeaderPropsType> = () => {
   return (
     <>
-      <header className="wrapper">
+      <header className="wrapper top-0 sticky">
         <div className="mx-full px-full bg-white h-16 flex items-center justify-between shadow-sm">
           <div className="text-gray-900">
             <Link href="/">
