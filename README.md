@@ -1,6 +1,9 @@
 # NEXT TEMPLATE
 # NODE VERSION >=12.13.0 AND USE NPM
 
+## overview
+[README](./document/README.md)
+
 ## command
 
 ### Watch
@@ -36,4 +39,3 @@ $ npm run export
 ## License
 
 [MIT © hisho](./LICENSE)
-s
